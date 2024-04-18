@@ -1,0 +1,1 @@
+HTML task1 practise includes building own portfolio website with a design to accomodate About me and contacts tab. CSS task2 practise includes filtering design into HTML portfolio practise and lastly Javascript task3 to intergrate styling and functionality.
